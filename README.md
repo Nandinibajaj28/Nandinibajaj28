@@ -1,8 +1,8 @@
 ## 👋Hi there 
-Computer Science Student
-Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
-Currently learning Next.js
-Happy to connect! Amazing folks, and build an Awesome network.
+- Computer Science Student
+- Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
+- Currently learning Next.js
+- Happy to connect! Amazing folks, and build an Awesome network.
 
 ### 🚀 Tech Stack
 <p align="left">
