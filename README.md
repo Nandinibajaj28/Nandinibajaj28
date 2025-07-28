@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/bajajnandini" target="_blank">
-    <img src="https://img.shields.io/badge/-@bajajnandini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-@bajajnandini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
