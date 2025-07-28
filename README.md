@@ -5,13 +5,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align: middle;" />
     &nbsp; <strong>linkedin.com/in/bajajnandini</strong>
   </a>
-  <br /><br />
+ 
   
   <a href="mailto:nandinibajaj1221@gmail.com" target="_blank" style="margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" style="vertical-align: middle;" />
     &nbsp; <strong>nandinibajaj1221@gmail.com</strong>
   </a>
-  <br /><br />
+  
   
   <a href="https://github.com/Nandinibajaj28" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="vertical-align: middle;" />
