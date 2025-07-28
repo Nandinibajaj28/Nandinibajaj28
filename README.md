@@ -8,6 +8,10 @@
   <a href="mailto:nandinibajaj1221@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-nandinibajaj1221@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/bajajnandini" target="_blank">
+    <img src="https://img.shields.io/badge/-@bajajnandini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 
