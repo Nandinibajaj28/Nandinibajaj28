@@ -1,3 +1,17 @@
+<img src="logo-me.png" alt="banner" width="100%" />
+
+<p align="left">
+  <a href="https://github.com/Nandinibajaj28" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nandinibajaj28-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="mailto:nandinibajaj1221@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-nandinibajaj1221@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+
 ## 👋Hi there 
 - Computer Science Student
 - Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
