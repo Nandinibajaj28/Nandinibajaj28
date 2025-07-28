@@ -13,9 +13,10 @@
 
 
 ## 👋Hi there 
-- Computer Science Student
+- IT Student
 - Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
-- Currently learning Next.js
+- Currently practicing Data Structures & Algorithms (DSA).
+- Learning Next.js and writing Blogs.
 - Happy to connect! Amazing folks, and build an Awesome network.
 
 ### 🚀 Tech Stack
@@ -23,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
