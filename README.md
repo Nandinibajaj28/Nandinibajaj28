@@ -19,6 +19,19 @@
   </a>
 </p>
 ## 📫 How to Reach Me:
+## ☁ How to Reach Me:
+
+<a href="https://www.linkedin.com/in/bajajnandini" target="_blank">
+  <img src="https://i.imgur.com/5yV3G7R.png" width="60" height="60" alt="LinkedIn"/>
+</a>
+
+<a href="https://twitter.com/your_username" target="_blank">
+  <img src="https://i.imgur.com/GK0Jf5r.png" width="60" height="60" alt="Twitter"/>
+</a>
+
+<a href="mailto:nandinibajaj1221@gmail.com" target="_blank">
+  <img src="https://i.imgur.com/Nt3p45b.png" width="60" height="60" alt="Gmail"/>
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/bajajnandini)
 
