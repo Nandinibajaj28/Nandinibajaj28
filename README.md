@@ -17,13 +17,15 @@
 <a href="mailto:nandinibajaj1221@gmail.com" target="_blank">
   <img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="60" height="60" alt="Gmail"/>
 </a>
+
 ----
-##👋 Hi there
-- IT Student
-- Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
-- Currently practicing Data Structures & Algorithms (DSA).
-- Learning Next.js and writing Blogs.
-- Happy to connect! Amazing folks, and build an Awesome network.
+
+## 👋 Hi there
+-👩‍💻 IT Student
+-🧠Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
+-📚 Currently practicing Data Structures & Algorithms (DSA).
+- ✍️Learning Next.js and writing Blogs.
+-🤝Happy to connect! Amazing folks, and build an Awesome network.
 
 ### 🚀 Tech Stack
 <p align="left">
