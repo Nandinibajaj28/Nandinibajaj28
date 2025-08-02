@@ -38,7 +38,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:nandinibajaj1221@gmail.com)
 
 <a href="https://www.linkedin.com/in/your_username" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn Cloud"/>
+  <img src="="https://i.pinimg.com/originals/2d/56/d9/2d56d904b055625cc83afae9db3b7f57.png" width="60" alt="LinkedIn Cloud"/>
 </a>
 
 <a href="https://twitter.com/your_username" target="_blank">
