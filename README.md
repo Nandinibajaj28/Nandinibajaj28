@@ -1,6 +1,6 @@
 <img src="logo-me.png" alt="banner" width="100%" />
     
-## 📫 How to Reach Me:
+# 📫 How to Reach Me:
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFsODFpb2ttY2JmeXpoNGxzb2ZmbnU1NjZ1ZTlkZDZ3YXphcWlmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SdoR1wP0uKJYblf3S7/giphy.gif" width="100" />
 
 
