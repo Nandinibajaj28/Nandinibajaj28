@@ -1,23 +1,5 @@
 <img src="logo-me.png" alt="banner" width="100%" />
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/bajajnandini" target="_blank" style="margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="vertical-align: middle;" />
-    &nbsp; <strong>linkedin.com/in/bajajnandini</strong>
-  </a>
-  <br /><br />
-  
-  <a href="mailto:nandinibajaj1221@gmail.com" target="_blank" style="margin-right: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" style="vertical-align: middle;" />
-    &nbsp; <strong>nandinibajaj1221@gmail.com</strong>
-  </a>
-  <br /><br />
-  
-  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="vertical-align: middle;" />
-    &nbsp; <strong>github.com/Nandinibajaj28</strong>
-  </a>
-</p>
+    
 ## 📫 How to Reach Me:
 
 <a href="https://www.linkedin.com/in/bajajnandini" target="_blank">
