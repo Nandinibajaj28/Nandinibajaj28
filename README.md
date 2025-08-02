@@ -20,8 +20,11 @@
 
 
 
+<h1 align="left">
+ Hi there 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2k2cXBxY2JnYWkydnczaGx1aWtybW9qOWRvdWRzc3hodmxnYnJkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Z96Ax1zh5aSsHczGve/giphy.gif" width="50" style="vertical-align:middle;" />
+</h1>
 
-## 👋Hi there 
 - IT Student
 - Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
 - Currently practicing Data Structures & Algorithms (DSA).
