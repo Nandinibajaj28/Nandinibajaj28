@@ -3,7 +3,7 @@
 ## 📫 How to Reach Me:
 
 <a href="https://www.linkedin.com/in/bajajnandini" target="_blank">
-  <img src="https://i.pinimg.com/originals/2d/56/d9/2d56d904b055625cc83afae9db3b7f57.png" width="60" height="60" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/clouds/100/000000/linkedin.png" width="60" height="60" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Nandinibajaj28" target="_blank">
