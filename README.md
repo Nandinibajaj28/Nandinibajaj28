@@ -18,7 +18,11 @@
     &nbsp; <strong>github.com/Nandinibajaj28</strong>
   </a>
 </p>
+## 📫 How to Reach Me:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/bajajnandini)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:nandinibajaj1221@gmail.com)
 
 
 
