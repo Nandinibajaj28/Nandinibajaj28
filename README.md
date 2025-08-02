@@ -2,7 +2,7 @@
 
 <h1 align="left">
  📫 How to Reach Me: 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFsODFpb2ttY2JmeXpoNGxzb2ZmbnU1NjZ1ZTlkZDZ3YXphcWlmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SdoR1wP0uKJYblf3S7/giphy.gif" width="50" style="margin-left: 10px; vertical-align:middle;" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFsODFpb2ttY2JmeXpoNGxzb2ZmbnU1NjZ1ZTlkZDZ3YXphcWlmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SdoR1wP0uKJYblf3S7/giphy.gif" width="50" style="margin-left: 10; vertical-align:middle;" />
 </h1>
 
 
