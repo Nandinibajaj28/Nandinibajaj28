@@ -22,11 +22,11 @@
 
 ## 👋 Hi there
 
--👩‍💻 IT Student
--🧠Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
--📚 Currently practicing Data Structures & Algorithms (DSA).
+- 👩‍💻 IT Student
+- 🧠Thoughts about Engineering at [MyBlog](https://blog-codewithnandini.hashnode.dev/)
+- 📚 Currently practicing Data Structures & Algorithms (DSA).
 - ✍️Learning Next.js and writing Blogs.
--🤝Happy to connect! Amazing folks, and build an Awesome network.
+- 🤝Happy to connect! Amazing folks, and build an Awesome network.
 
 ### 🚀 Tech Stack
 <p align="left">
