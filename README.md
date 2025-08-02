@@ -13,41 +13,27 @@
   </a>
   <br /><br />
   
-  <a href="https://github.com/Nandinibajaj28" target="_blank">
+  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" style="vertical-align: middle;" />
     &nbsp; <strong>github.com/Nandinibajaj28</strong>
   </a>
 </p>
 ## 📫 How to Reach Me:
-## ☁ How to Reach Me:
 
 <a href="https://www.linkedin.com/in/bajajnandini" target="_blank">
-  <img src="https://i.imgur.com/5yV3G7R.png" width="60" height="60" alt="LinkedIn"/>
+  <img src="https://i.pinimg.com/originals/2d/56/d9/2d56d904b055625cc83afae9db3b7f57.png" width="60" height="60" alt="LinkedIn"/>
 </a>
 
-<a href="https://twitter.com/your_username" target="_blank">
-  <img src="https://i.imgur.com/GK0Jf5r.png" width="60" height="60" alt="Twitter"/>
+<a href="https://github.com/Nandinibajaj28" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=118557&format=png&color=000000.png" width="60" height="60" alt="Twitter"/>
 </a>
 
 <a href="mailto:nandinibajaj1221@gmail.com" target="_blank">
-  <img src="https://i.imgur.com/Nt3p45b.png" width="60" height="60" alt="Gmail"/>
+  <img src="https://img.icons8.com/clouds/100/000000/gmail.png" width="60" height="60" alt="Gmail"/>
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/bajajnandini)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:nandinibajaj1221@gmail.com)
 
-<a href="https://www.linkedin.com/in/your_username" target="_blank">
-  <img src="https://i.pinimg.com/originals/2d/56/d9/2d56d904b055625cc83afae9db3b7f57.png" width="60" alt="LinkedIn Cloud"/>
-</a>
-
-<a href="https://twitter.com/your_username" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="60" alt="Twitter Cloud"/>
-</a>
-
-<a href="mailto:your_email@gmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="60" alt="Gmail Cloud"/>
-</a>
 
 ## 👋Hi there 
 - IT Student
