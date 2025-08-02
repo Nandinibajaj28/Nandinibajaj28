@@ -37,7 +37,17 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:nandinibajaj1221@gmail.com)
 
+<a href="https://www.linkedin.com/in/your_username" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="60" alt="LinkedIn Cloud"/>
+</a>
 
+<a href="https://twitter.com/your_username" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/124/124021.png" width="60" alt="Twitter Cloud"/>
+</a>
+
+<a href="mailto:your_email@gmail.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="60" alt="Gmail Cloud"/>
+</a>
 
 ## 👋Hi there 
 - IT Student
